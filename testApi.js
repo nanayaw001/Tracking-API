@@ -11,7 +11,7 @@ const requestData = {
 };
 
 // Set the API endpoint URL. Ensure it points to your Express server.
-const apiUrl = 'https://localhost:3000/api/track'; // Change to the actual URL if needed.
+const apiUrl = 'http://localhost:3000/api/track'; // Change to the actual URL if needed.
 
 // Make the API request.
 axios
